@@ -2,9 +2,9 @@
 
 🚀 **Live Link: https://ck-pdf-s.onrender.com/
 
-A fast, user-friendly, and full-stack web application for managing and processing PDF documents online. Built with **Node.js**, **Express**, and **EJS**, and deployed live on **Render**.
-
 *(Note: Hosted on Render's free tier; initial load may take 30–50 seconds if the server is in sleep mode.)*
+
+A fast, user-friendly, and full-stack web application for managing and processing PDF documents online. Built with **Node.js**, **Express**, and **EJS**, and deployed live on **Render**.
 
 ---
 
